@@ -1,5 +1,4 @@
-# capstone-project-Masai-School-
-Zepto Data & AI Platform
+#Zepto Data & AI Platform
 📌 Overview
 This repository contains the capstone project for Zepto’s analytics guild. It demonstrates an end‑to‑end AI/ML workflow across three modules:
 
