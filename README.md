@@ -14,7 +14,7 @@ All three modules live together in this single repository. Deliverables are text
 
 1.Clone the repository:
 Code
-  git clone https://github.com/Guduru-Hadeel/capstone-project-Masai-School.git
+  git clone (https://github.com/Guduru-Hadeel/capstone-project-Masai-School-.git)
   cd capstone-project-Masai-School
 2.Install dependencies:
 Code
