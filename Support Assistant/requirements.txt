@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+httpx(Note: It is included because FASTAPI.testClient requires it to run tests without launching a live server)
+sentence-transformers
+chromadb
